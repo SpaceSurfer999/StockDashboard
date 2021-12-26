@@ -1,5 +1,3 @@
-requests-dev
-yfinance-dev
-pandas-dev
-geopy-dev
-numpy-dev
+yfinance
+pandas
+
